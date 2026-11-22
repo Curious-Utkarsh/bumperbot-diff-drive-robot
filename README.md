@@ -60,4 +60,4 @@ ros2 launch bumperbot_bringup real_robot.launch.py          # real robot
 Package structure and the base robot follow Antonio Brandi's *Self-Driving and ROS 2 — Learn by Doing* course (the "bumperbot"); the real-robot build, vision line follower and maze solver are my extensions.
 
 ---
-[Kumar Utkarsh](https://github.com/Curious-Utkarsh) · [LinkedIn](https://www.linkedin.com/in/kumar-utkarsh-124aab227/) · [MechaMind Labs](https://www.mechamindlabs.com/)
+[Kumar Utkarsh](https://github.com/Curious-Utkarsh) · [LinkedIn](https://www.linkedin.com/in/kumar-utkarsh-124aab227/) · [MechaMind Labs](https://github.com/MechaMind-Labs)
